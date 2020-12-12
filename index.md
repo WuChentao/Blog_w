@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to wct Blog_W
 
 You can use the [editor on GitHub](https://github.com/wctzm/solo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
